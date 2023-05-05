@@ -1,5 +1,5 @@
 # [한빛미디어] 혼공학습단 8기 
-<img width="500" src="https://user-images.githubusercontent.com/102473586/236403984-2ee28394-655a-4b41-a032-f1fe3f657352.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/102473586/236403984-2ee28394-655a-4b41-a032-f1fe3f657352.jpg">
 
 
 ##### 1주차(7/4 ~ 7/10)	
