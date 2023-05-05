@@ -3,7 +3,8 @@
 
 1주차(7/4 ~ 7/10)	
 Chapter 01 ~ 02 / 나의 첫 머신러닝 , 데이터 다루기 
--https://blog.naver.com/pyi3316/222799106901
+
+- https://blog.naver.com/pyi3316/222799106901
 
 2주차(7/11 ~ 7/17)	
 Chapter 03	/ 회귀 알고리즘과 모델 규제 
