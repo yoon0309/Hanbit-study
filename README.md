@@ -1,4 +1,5 @@
 # [한빛미디어] 혼공학습단 8기 
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236403984-2ee28394-655a-4b41-a032-f1fe3f657352.jpg">
 
 
 ##### 1주차(7/4 ~ 7/10)	
@@ -14,6 +15,9 @@ Chapter 03	/ 회귀 알고리즘과 모델 규제
 Chapter 04	/ 다양한 분류 알고리즘 
 - https://blog.naver.com/pyi3316/222817748493
 
+###### 우수학습자 선정 
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236404084-2831360b-e882-4c76-aa65-334800875147.jpg">
+
 ##### 4주차(7/25 ~ 7/31)	
 Chapter 05	/ 트리 알고리즘 
 - https://blog.naver.com/pyi3316/222835497608
@@ -21,6 +25,9 @@ Chapter 05	/ 트리 알고리즘
 ##### 5주차(8/8 ~ 8/14)	
 Chapter 06	/비지도 학습 
 - https://blog.naver.com/pyi3316/222846617966
+
+###### 우수학습자 선정 
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236404154-19d84493-af57-412b-a78c-6423ee3ac832.jpg">
 
 ##### 6주차(8/15 ~ 8/21)	
 Chapter 07	/ 딥러닝을 시작합니다 
